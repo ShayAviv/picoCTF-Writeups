@@ -20,4 +20,4 @@ This repo is a collection of solutions and writeups for some of the [picoCTF](ht
 <br>
 
 **Any errors you might find, please open an issue.** <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJX0EkVYHRBfqZsfOEUCnVh0nLDN3_s7fYg&s" width="300" style="max-width: 100%;">
+<img src="https://cdn-icons-png.flaticon.com/512/6478/6478111.png" width="325" style="max-width: 100%;">

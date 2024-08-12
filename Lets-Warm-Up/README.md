@@ -2,7 +2,7 @@
 
 | **Points** |    **Category**      |    **Level** |
 |--------|----------------|-------|
-| 50 :muscle:     | General Skills :tools: | Easy :grin: |
+| 50 :muscle:     | General Skills 🛠️ | Easy :grin: |
 
 ![image](images/1.png)
 

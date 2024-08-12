@@ -20,11 +20,12 @@
         Open your terminal and navigate to the directory containing the file, then run the following command:
         ![Screenshot](images/3.png)
 
-3. **Step 3: Use `./warm` to execute the binary.
-    ![Screenshot](4.png)
+3. **Step 3: Use `./warm` to execute the binary.**
+   
+    ![Screenshot](images/4.png)
 
     1. As stated in the CTF, we'll use the `-h` option. (`./warm -h`)
-        ![Screenshot](images/4.png)
+        ![Screenshot](images/5.png)
 
 ---
 

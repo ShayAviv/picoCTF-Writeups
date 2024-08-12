@@ -1,4 +1,4 @@
-# picoCTP <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" width="38" style="max-width: 100%;"> - Writeups - [Shay Aviv](https://www.linkedin.com/in/shayaviv/)
+# picoCTF <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" width="38" style="max-width: 100%;"> - Writeups - [Shay Aviv](https://www.linkedin.com/in/shayaviv/)
 
 ---
 

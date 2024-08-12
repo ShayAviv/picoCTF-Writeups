@@ -1,8 +1,12 @@
-# picoCTP <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" width="38" style="max-width: 100%;"> Writeups - [Shay Aviv](https://www.linkedin.com/in/shayaviv/)
+# picoCTP <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" width="38" style="max-width: 100%;"> - Writeups - [Shay Aviv](https://www.linkedin.com/in/shayaviv/)
+
+---
 
 This repo is a collection of solutions and writeups for some of the [picoCTF](https://picoctf.org/) CTFs I mannaged to solve.
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgtwfkfAJYcaqTaIxdMk8NpoHQw0c_b7h-A&s" width="38" style="max-width: 100%;"> CTFs:
+<br>
+
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f6a9.png" width="25" style="max-width: 100%;"> CTFs:
 
 | **#** | **CTF name**     | **Description**                                                                                                                                  | **Link**                                                                                   |
 |-------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -13,5 +17,7 @@ This repo is a collection of solutions and writeups for some of the [picoCTF](ht
 | **5** | `Obedient-Cat`   | *This file has a flag in plain sight (aka "in-the-clear"). Download flag.*                                                                       |  [![Go](https://readme-components.vercel.app/api?component=button&text=Go)](Obedient-Cat/) |
 | **6** | `Wave-a-flag`    | *Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...*                                        |  [![Go](https://readme-components.vercel.app/api?component=button&text=Go)](Wave-a-flag/)  |
 
-> **Any errors you might find, please open an issue.**
-> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJX0EkVYHRBfqZsfOEUCnVh0nLDN3_s7fYg&s" width="38" style="max-width: 100%;">
+<br>
+
+**Any errors you might find, please open an issue.** <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJX0EkVYHRBfqZsfOEUCnVh0nLDN3_s7fYg&s" width="300" style="max-width: 100%;">

@@ -6,8 +6,8 @@
 
 ![image](images/1.png)
 
-1. **Step 1: Go to [this site]
-   (https://www.rapidtables.com/convert/number/base-converter.html)**
+1. **Step 1: Go to [this site](https://www.rapidtables.com/convert/number/base-converter.html)**
+   
     ![Screenshot](images/2.png)
 
 > Alternatively, if you want to solve it without a website you can manually subnet it:
